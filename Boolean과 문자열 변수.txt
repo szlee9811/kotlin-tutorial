@@ -1,6 +1,6 @@
 fun main() {
     
-	var booleanValue:Boolean = true
+    var booleanValue:Boolean = true
     // true와 false 지정
     
     val stringValue = "one line string test"
