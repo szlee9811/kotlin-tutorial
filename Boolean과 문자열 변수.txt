@@ -1,0 +1,13 @@
+fun main() {
+    
+	var booleanValue:Boolean = true
+    // true와 false 지정
+    
+    val stringValue = "one line string test"
+    //한 줄 문자열 변수
+    
+    val multiStringValue = """multiline
+    string
+    test"""
+    //여러 줄의 문자열 변수
+}

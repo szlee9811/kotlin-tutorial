@@ -1,0 +1,5 @@
+fun main(){
+    var a:Int? = null
+    println(a)
+    // 꼭 필요한 경우에 null을 사용하기 위해 ? 붙임 
+}

@@ -1,0 +1,13 @@
+fun main() {
+	var intValue:Int = 1234
+    var longValue:Long = 1234L
+    var doubleValue:Double = 123.5
+    var doubleValueWithExp:Double = 123.5e10
+    var floatValue:Float = 123.5f
+    
+    println(intValue)
+    println(longValue)
+    println(doubleValue)
+    println(doubleValueWithExp)
+    println(floatValue)
+}
